@@ -1,10 +1,3 @@
-# Slappey
-
-Slap together a Discord Bot project in seconds!
-
-![slappey-logo](https://i.imgur.com/q4ofLAo.png)
-
-
 ## What is Slappey?
 
 Slappey is a cli tool that lets you generate a Discord.JS project (version 12 or version 11), in a matter of seconds.
@@ -37,10 +30,6 @@ Install slappey by running `npm install -g slappey` on your terminal or Windows 
 
 
 ## Will Slappey support TypeScript?
-
-- ~~Soon~~
-
-Slappey now supports TypeScript as of 6/1/2020!
 
 You must have TypeScript installed. However, if you don't, during the installation process, if you selected TypeScript, Slappey will ask you if you would like to install TypeScript, ts-node, and setup a basic tsconfig.json file. If you enter n (no), you will have to install these manually.
 
